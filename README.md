@@ -79,16 +79,16 @@ Send a JSON body with all 17 features. Returns prediction + probability.
   "cold": 1,
   "rigor": 1,
   "fatigue": 1,
-  "headace": 1,
+  "headache": 1,
   "bitter_tongue": 0,
   "vomitting": 0,
   "diarrhea": 1,
-  "Convulsion": 1,
-  "Anemia": 0,
-  "jundice": 0,
+  "convulsion": 1,
+  "anemia": 0,
+  "jaundice": 0,
   "cocacola_urine": 1,
   "hypoglycemia": 1,
-  "prostraction": 0,
+  "prostration": 0,
   "hyperpyrexia": 1
 }
 ```
